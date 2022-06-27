@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/activity_customer.xml" value="0.22" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/activity_driver.xml" value="0.3692708333333333" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/activity_main.xml" value="0.3692708333333333" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/activity_manager.xml" value="0.25" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/activity_user.xml" value="0.22644927536231885" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_customer_home.xml" value="0.23596014492753623" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_customer_profile.xml" value="0.33" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_customer_promo.xml" value="0.17907801418439717" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_driver_home.xml" value="0.36822916666666666" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_driver_profile.xml" value="0.3021367521367521" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/fragment_promo.xml" value="0.25" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/layout_loading.xml" value="0.1476608187134503" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/layout/rv_item_promo.xml" value="0.22" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/menu/customer_menu.xml" value="0.25" />
+        <entry key="..\:/KULAH SMT 6/Proyek Pengembangan Perangkat Lunak/AJR Android/app/src/main/res/menu/driver_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

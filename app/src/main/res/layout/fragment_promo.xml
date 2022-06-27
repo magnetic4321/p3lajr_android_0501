@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            tools:context=".role.customer.CustomerActivity">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_promo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:listitem="@layout/rv_item_promo"/>
+
+<!--            <androidx.coordinatorlayout.widget.CoordinatorLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent">-->
+
+<!--                <com.google.android.material.appbar.AppBarLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content">-->
+
+<!--                    <LinearLayout-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:orientation="vertical"-->
+<!--                        android:background="@color/primary_blue">-->
+
+<!--                        <LinearLayout-->
+<!--                            android:layout_width="wrap_content"-->
+<!--                            android:layout_height="wrap_content"-->
+<!--                            android:layout_gravity="center"-->
+<!--                            android:layout_marginStart="30dp"-->
+<!--                            android:layout_marginEnd="30dp"-->
+<!--                            android:layout_marginTop="20dp"-->
+<!--                            android:layout_marginBottom="20dp"-->
+<!--                            android:orientation="horizontal">-->
+
+<!--                            <ImageView-->
+<!--                                android:layout_width="100dp"-->
+<!--                                android:layout_height="100dp"-->
+<!--                                android:layout_gravity="center"-->
+<!--                                app:srcCompat="@mipmap/ic_launcher"/>-->
+
+<!--                            <LinearLayout-->
+<!--                                android:layout_width="match_parent"-->
+<!--                                android:layout_height="match_parent"-->
+<!--                                android:gravity="center"-->
+<!--                                android:orientation="vertical"-->
+<!--                                android:padding="16dp">-->
+
+<!--                                <TextView-->
+<!--                                    android:layout_width="match_parent"-->
+<!--                                    android:layout_height="wrap_content"-->
+<!--                                    android:text="Hallo,"-->
+<!--                                    android:textColor="@color/white"-->
+<!--                                    android:textAppearance="?attr/textAppearanceBody1" />-->
+
+<!--                                <TextView-->
+<!--                                    android:id="@+id/tvName"-->
+<!--                                    android:layout_width="match_parent"-->
+<!--                                    android:layout_height="wrap_content"-->
+<!--                                    android:text="Nama User"-->
+<!--                                    android:textColor="@color/white"-->
+<!--                                    android:textAppearance="?attr/textAppearanceHeadline6" />-->
+
+<!--                            </LinearLayout>-->
+<!--                        </LinearLayout>-->
+<!--                    </LinearLayout>-->
+<!--                </com.google.android.material.appbar.AppBarLayout>-->
+
+<!--                <androidx.swiperefreshlayout.widget.SwipeRefreshLayout-->
+<!--                    android:id="@+id/sr_promo"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="match_parent"-->
+<!--                    app:layout_behavior="@string/appbar_scrolling_view_behavior">-->
+
+
+
+<!--                </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>-->
+<!--            </androidx.coordinatorlayout.widget.CoordinatorLayout>-->
+        </FrameLayout>
+</layout>
